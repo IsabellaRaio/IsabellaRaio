@@ -16,11 +16,6 @@ Me chamo Isabella Raio, tenho 19 anos e sou de São Paulo. Estou cursando Análi
 
 ---
 
-## 📊 Em números
-
-| 📁 Projetos | ⏱️ Estudo diário | 🎯 Objetivo |
-|:---:|:---:|:---:|
-| **5 no portfólio** | **3h / dia** | **Ingressar em Dados** |
 
 ---
 
